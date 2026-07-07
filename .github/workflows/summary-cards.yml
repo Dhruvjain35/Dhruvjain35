@@ -19,13 +19,19 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Generate self-hosted summary cards
+      - name: Generate summary cards (write to workspace, do not push)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: profile-summary-card-output
+          AUTO_PUSH: false
+
+      - name: Publish cards to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: profile-summary-card-output
+          build_dir: profile-summary-card-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
