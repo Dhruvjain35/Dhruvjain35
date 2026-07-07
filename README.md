@@ -82,14 +82,10 @@ Engineer and researcher. I build production software across healthcare and sport
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhruvjain35&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&ring_color=58a6ff" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvjain35&layout=compact&langs_count=8&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top languages" />
+<img height="195" src="https://raw.githubusercontent.com/Dhruvjain35/Dhruvjain35/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img height="195" src="https://raw.githubusercontent.com/Dhruvjain35/Dhruvjain35/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages by repository" />
 
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com/?user=Dhruvjain35&hide_border=false&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&excludeDaysLabel=8b949e" alt="Contribution streak" />
-
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvjain35&custom_title=Contribution%20Activity&bg_color=0d1117&color=e6edf3&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=false&border_color=30363d" alt="Contribution activity graph" />
 
