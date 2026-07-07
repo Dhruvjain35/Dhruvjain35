@@ -18,10 +18,32 @@ Engineer and researcher. I build production software for healthcare, design agen
 
 ## Currently
 
-- **CTO and Co-Founder** at **Solace** &nbsp;—&nbsp; AI-native emergency-department intake and triage.
-- **ML and Physics Research** at the **University of Notre Dame** &nbsp;—&nbsp; open quantum systems and cavity QED.
-- **FDE Intern** at **memv.ai** &nbsp;—&nbsp; enterprise AI memory systems, San Francisco.
-- **Software Engineering Apprentice** at **T-Mobile** &nbsp;—&nbsp; agentic AI workflows on Databricks, Spark, and ServiceNow systems.
+<table>
+<tr>
+<td valign="top" width="50%">
+<h3>Solace</h3>
+<img src="https://img.shields.io/badge/CTO%20and%20Co--Founder-1f6feb?style=for-the-badge&labelColor=0d1117" />
+<p>AI-native emergency-department intake and triage.</p>
+</td>
+<td valign="top" width="50%">
+<h3>University of Notre Dame</h3>
+<img src="https://img.shields.io/badge/ML%20%2B%20Physics%20Research-1f6feb?style=for-the-badge&labelColor=0d1117" />
+<p>Open quantum systems and cavity QED.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h3>memv.ai</h3>
+<img src="https://img.shields.io/badge/FDE%20Intern-1f6feb?style=for-the-badge&labelColor=0d1117" />
+<p>Enterprise AI memory systems, San Francisco.</p>
+</td>
+<td valign="top" width="50%">
+<h3>T-Mobile</h3>
+<img src="https://img.shields.io/badge/SWE%20Apprentice-1f6feb?style=for-the-badge&labelColor=0d1117" />
+<p>Agentic AI workflows on Databricks, Spark, and ServiceNow.</p>
+</td>
+</tr>
+</table>
 
 ## Featured Work
 
