@@ -12,6 +12,8 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/Dhruvjain35)
 
+<img src="https://raw.githubusercontent.com/Dhruvjain35/Dhruvjain35/main/assets/divider.svg" width="100%" alt="" />
+
 </div>
 
 Engineer and researcher. I build production software for healthcare, design agentic AI systems, and do machine-learning and physics research on open quantum systems and cavity QED. Currently 16, based in McKinney, Texas. Most of what I make starts as a research question and ends as something people actually use.
@@ -82,6 +84,10 @@ Engineer and researcher. I build production software for healthcare, design agen
 </tr>
 </table>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Dhruvjain35/Dhruvjain35/main/assets/divider.svg" width="100%" alt="" />
+</div>
+
 ## Stack
 
 <div align="center">
@@ -99,11 +105,13 @@ Engineer and researcher. I build production software for healthcare, design agen
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/Dhruvjain35/Dhruvjain35/main/assets/divider.svg" width="100%" alt="" />
+</div>
 
 <div align="center">
 
-<img height="230" src="https://raw.githubusercontent.com/Dhruvjain35/Dhruvjain35/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repository" />
+<img height="250" src="https://raw.githubusercontent.com/Dhruvjain35/Dhruvjain35/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repository" />
 
 <br/><br/>
 
