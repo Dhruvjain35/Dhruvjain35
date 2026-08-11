@@ -16,8 +16,7 @@
 
 </div>
 
-Engineer and researcher. I build production software for healthcare, design agentic AI systems, and do machine-learning and physics research on open quantum systems and cavity QED. Currently 16, based in McKinney, Texas. Most of what I make starts as a research question and ends as something people actually use.
-
+Engineer and researcher. I build production software for healthcare, design agentic AI systems, and do machine-learning and physics research on open quantum systems and cavity QED. 
 ## Currently
 
 <table>
